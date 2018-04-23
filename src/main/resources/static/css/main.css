@@ -1,0 +1,12 @@
+td.edit-control {
+    background: url('../image/Pencil-icon.png') no-repeat center center;
+    cursor: pointer;
+}
+td.delete-control {
+    background: url('../image/delete-icon.png') no-repeat center center;
+    cursor: pointer;
+}
+.error {
+    color: red;
+    font-size: medium;
+}
